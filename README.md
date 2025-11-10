@@ -1,4 +1,3 @@
-```markdown
 # Operações de Matrizes com BLAS (CPU)
 
 Projeto em C que realiza operações com matrizes utilizando a biblioteca **BLAS (Basic Linear Algebra Subprograms)** para otimização em CPU.
